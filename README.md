@@ -1,1 +1,1 @@
-# simple-java-maven 2025
+# simple-java-maven-2025
